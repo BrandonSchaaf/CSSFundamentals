@@ -1,0 +1,15 @@
+.div-1 {
+	background-color: lightgray;
+	border-style: solid;
+	border-color: blue;
+	border-width: 10px;
+	width: 600px
+}
+
+.blueFont {
+	color: blue;
+}
+
+.greenFont {
+	color:green;
+}
